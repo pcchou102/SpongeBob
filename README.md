@@ -11,7 +11,7 @@
 
 ## 線上體驗
 
-部署網址：`https://pcchou102-spongebob.streamlit.app/`
+部署網址：`[https://pcchou102-spongebob.streamlit.app/](https://spongebob-bdpbfucqy4qwfqre9cvqjz.streamlit.app/)`
 
 ## 本地運行
 
