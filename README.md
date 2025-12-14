@@ -74,6 +74,11 @@ streamlit run app.py
   - Groq (llama-3.3-70b-versatile, gemma2-9b-it, gpt-oss-120b)
   - OpenAI (gpt-4o)
 
+## 參考來源
+
+本專案靈感與技術參考來自：
+- [yenlung/AI-Demo](https://github.com/yenlung/AI-Demo) - AI 應用示範與教學
+
 ## 授權
 
 MIT License
